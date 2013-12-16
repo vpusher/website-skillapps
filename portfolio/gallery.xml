@@ -1,0 +1,130 @@
+<tiltviewergallery>
+	<photos>
+		<photo imageurl="imgs/albums1.png" linkurl="http://www.google.com">
+			<title>Image 1</title>
+			<description>This is a regular text description.</description>
+		</photo>
+		
+		<photo imageurl="imgs/albums2.jpg" linkurl="http://www.google.com">
+			<title>Image 2</title>
+			<description><![CDATA[This is a HTML text description. Supported tags are <b>bold</b>, <u>underline</u>, <i>italics</i>, linebreaks<br>and <font color="#ff0000" size="60">font tags</font>. Hyperlinks are not supported.]]></description>
+		</photo>
+		
+		<photo imageurl="imgs/albums3.jpg" >
+			<title>Image 3</title>
+		<description>This image has no link button becasue the 'linkurl' property was removed from the photo tag</description>			
+		</photo>
+				
+		<photo imageurl="imgs/com1.png" linkurl="http://www.google.com">
+			<title>Image 18</title>			
+		</photo>
+		
+		<photo imageurl="imgs/com2.png" linkurl="http://www.google.com">
+			<title>Image 19</title>			
+		</photo>
+		<photo imageurl="imgs/com3.png" linkurl="http://www.google.com">
+			<title>Image 20</title>			
+		</photo>
+		
+		<photo imageurl="imgs/cars.png" linkurl="http://www.google.com">
+			<title>Image 7</title>			
+		</photo>
+		
+		<photo />
+		
+		<photo />
+		
+		
+		
+		
+		<photo imageurl="imgs/allocine1.png" linkurl="http://www.google.com" showFlipButton="false">
+			<title>Image 4</title>
+			<description>This image has no flip button because the 'showFlipButton' property was added to the photo tag</description>			
+		</photo>
+		
+		<photo imageurl="imgs/allocine2.png" linkurl="http://www.google.com">
+			<title>Image 5</title>			
+		</photo>
+		
+		<photo imageurl="imgs/allocine3.png" linkurl="http://www.google.com">
+			<title>Image 6</title>			
+		</photo>
+		
+		<photo imageurl="imgs/ipnet.png" linkurl="http://www.google.com">
+			<title>Image 20</title>			
+		</photo>
+			
+		<photo imageurl="imgs/app.dessin.png" linkurl="http://www.google.com">
+			<title>Image 21</title>			
+		</photo>
+				
+		<photo imageurl="imgs/iboard.png" linkurl="http://www.google.com">
+			<title>Image 8</title>			
+		</photo>
+		
+		<photo />
+		
+		<photo />
+		
+		<photo />
+		
+		
+		
+		
+		
+		<photo imageurl="imgs/fourmi1.png" linkurl="http://www.google.com">
+			<title>Image 13</title>			
+		</photo>
+		
+		<photo imageurl="imgs/fourmi2.png" linkurl="http://www.google.com">
+			<title>Image 14</title>			
+		</photo>
+		
+		<photo imageurl="imgs/fourmi3.png" linkurl="http://www.google.com">
+			<title>Image 15</title>			
+		</photo>
+		
+		<photo imageurl="imgs/queen.png" linkurl="http://www.google.com">
+			<title>Image 16</title>			
+		</photo>
+		
+		<photo imageurl="imgs/worker.png" linkurl="http://www.google.com">
+			<title>Image 17</title>			
+		</photo>
+		
+		<photo imageurl="imgs/fighter.png" linkurl="http://www.google.com">
+			<title>Image 17</title>			
+		</photo>
+		
+		<photo />
+		
+		<photo />
+		
+		<photo />
+		
+		
+		
+		
+		<photo imageurl="imgs/logo_airmessage.png" linkurl="http://www.google.com">
+			<title>Image 9</title>			
+		</photo>
+		
+		<photo imageurl="imgs/pile.png" linkurl="http://www.google.com">
+			<title>Image 9</title>			
+		</photo>
+		
+		<photo imageurl="imgs/regard1.png" linkurl="http://www.google.com">
+			<title>Image 10</title>			
+		</photo>
+		
+		<photo imageurl="imgs/regard2.png" linkurl="http://www.google.com">
+			<title>Image 11</title>			
+		</photo>
+		
+		<photo imageurl="imgs/regard3.png" linkurl="http://www.google.com">
+			<title>Image 12</title>			
+		</photo>
+		
+								
+	</photos>
+</tiltviewergallery>
